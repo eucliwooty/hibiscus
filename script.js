@@ -3,7 +3,7 @@ const container = document.querySelector('.container');
 const acceptButton = document.querySelector('.buttonOne');
 
 acceptButton.addEventListener('click', () => {
-    alert('You clicked Accept!');
+    alert('Set date! @Clean beach');
 });
 
 declineButton.addEventListener('click', () => {
